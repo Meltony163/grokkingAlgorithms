@@ -1,0 +1,8 @@
+8.1 - pick largest boxe that can fit until u cant fit anymore boxes (it willn’t give us optimal solution)
+8.2- take the leaset time (it will give us optimal solution)
+3-not greedy
+4-greedy
+5-greedy
+6-NP
+7-NP
+8-NP
